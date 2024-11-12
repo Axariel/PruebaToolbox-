@@ -1,0 +1,36 @@
+{
+    "name": "[data-qa='signup-name']",
+    "email": "[data-qa='signup-email']",
+    "BotonSingup": "[data-qa='signup-button']",
+    "GenderLock": "#id_gender1",
+    "WelcomeMessage": ":nth-child(1) > b",
+    "password": "[data-qa='password']",
+    "DayForm": "#uniform-days",
+    "days": "#days",
+    "MonthForm": "#uniform-months",
+    "months": "#months",
+    "YearForm": "#uniform-years",
+    "years": "#years",
+    "news": "#newsletter",
+    "FirstName": "[data-qa='first_name']",
+    "LastName": "[data-qa='last_name']",
+    "Company": "[data-qa='company']",
+    "address": "[data-qa='address']",
+    "country": "[data-qa='country']",
+    "state": "[data-qa='state']",
+    "city": "[data-qa='city']",
+    "zipcode": "[data-qa='zipcode']",
+    "mobile_number": "[data-qa='mobile_number']",
+    "Botoncreate": "[data-qa='create-account']",
+    "MensajeExitoso": "b"
+  }
+  
+
+ 
+
+ 
+
+
+
+
+
