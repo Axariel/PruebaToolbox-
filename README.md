@@ -1,7 +1,7 @@
 # PruebaToolbox-
 
 Cypress Project
-Este proyecto utiliza Cypress para realizar pruebas automatizadas de una aplicación web. A continuación, se detallan los pasos necesarios para clonar y ejecutar el proyecto en tu máquina local la carpeta que tiene la solucion para la automatizacion se llama 
+Este proyecto utiliza Cypress para realizar pruebas automatizadas de una aplicación web. A continuación, se detallan los pasos necesarios para clonar y ejecutar el proyecto en tu máquina local la carpeta que tiene la solucion para la automatizacion se llama CypressToolbox
 
 Requisitos previos
 Node.js (versión 12 o superior) debe estar instalado. Puedes verificar si tienes Node.js instalado ejecutando el siguiente comando en tu terminal:
@@ -28,6 +28,8 @@ Reemplaza <URL_DEL_REPOSITORIO> con la URL de tu repositorio.
 2. Ingresa al directorio del proyecto
 Navega a la carpeta del proyecto:
 
+CypressToolbox
+
 bash
 Copiar código
 cd nombre-del-proyecto
@@ -45,9 +47,9 @@ Existen dos maneras de ejecutar las pruebas de Cypress:
 
 Modo Interactivo (Cypress Test Runner)
 Este modo abre una interfaz gráfica de usuario en la que puedes ver y seleccionar las pruebas que quieres ejecutar:
-
+Desde la terminal 
 bash
-Copiar código
+Copiar código:
 npx cypress open
 En la ventana que se abre, selecciona el navegador y la prueba que deseas ejecutar.
 
@@ -55,7 +57,7 @@ Modo Headless (Sin interfaz gráfica)
 Este modo ejecuta las pruebas en modo headless, útil para integraciones en CI/CD:
 
 bash
-Copiar código
+Copiar código:
 npx cypress run
 Este comando ejecutará todas las pruebas de Cypress y mostrará los resultados en la terminal.
 
@@ -63,3 +65,5 @@ Estructura del proyecto
 cypress/integration: Carpeta donde se almacenan los archivos de prueba.
 cypress/fixtures: Carpeta para datos de prueba.
 cypress/support: Carpeta para comandos personalizados y configuración adicional.
+
+By Adrian Tillero
