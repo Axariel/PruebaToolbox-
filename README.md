@@ -1,7 +1,7 @@
 # PruebaToolbox-
 
 Cypress Project
-Este proyecto utiliza Cypress para realizar pruebas automatizadas de una aplicación web. A continuación, se detallan los pasos necesarios para clonar y ejecutar el proyecto en tu máquina local.
+Este proyecto utiliza Cypress para realizar pruebas automatizadas de una aplicación web. A continuación, se detallan los pasos necesarios para clonar y ejecutar el proyecto en tu máquina local la carpeta que tiene la solucion para la automatizacion se llama 
 
 Requisitos previos
 Node.js (versión 12 o superior) debe estar instalado. Puedes verificar si tienes Node.js instalado ejecutando el siguiente comando en tu terminal:
@@ -22,7 +22,7 @@ Clona el repositorio en tu máquina local usando el siguiente comando:
 
 bash
 Copiar código
-git clone <URL_DEL_REPOSITORIO>
+git clone (https://github.com/Axariel/PruebaToolbox-.git)
 Reemplaza <URL_DEL_REPOSITORIO> con la URL de tu repositorio.
 
 2. Ingresa al directorio del proyecto
@@ -39,6 +39,7 @@ Ejecuta el siguiente comando para instalar todas las dependencias del proyecto:
 bash
 Copiar código
 npm install
+
 4. Ejecuta Cypress
 Existen dos maneras de ejecutar las pruebas de Cypress:
 
